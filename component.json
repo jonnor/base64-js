@@ -1,0 +1,15 @@
+{
+  "name": "base64-js",
+  "description": "Base64 encoding/decoding in pure JS",
+  "author": "Jameson Little <tjameson@beatgammit.com>",
+  "repo": "jonnor/base64-js",
+  "version": "0.0.6",
+  "keywords": [
+  ],
+  "dependencies": {
+  },
+  "main": "lib/b64.js",
+  "scripts": [
+    "lib/b64.js"
+  ]
+}
